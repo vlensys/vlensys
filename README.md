@@ -1,6 +1,7 @@
 ## hi im valen
-- i use arch linux and neovim.
+- i use artix linux and neovim.
 - i mainly use c++, python and c.
+- star my repos please!
 <!--
 **vlensys/vlensys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
