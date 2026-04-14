@@ -17,7 +17,7 @@
 
 
 [![](https://img.shields.io/badge/OS-Artix%20Linux-10b981?style=flat-square&logo=linux&logoColor=white)](https://artixlinux.org)
-[![](https://img.shields.io/badge/init-runit-ef4444?style=flat-square)](https://artixlinux.org)
+[![](https://img.shields.io/badge/init-dinit-ef4444?style=flat-square)](https://artixlinux.org)
 [![](https://img.shields.io/badge/website-vlensys.cc-6366f1?style=flat-square&logo=github&logoColor=white)](https://vlensys.cc)
 [![](https://img.shields.io/badge/email-me%40vlensys.cc-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:me@vlensys.cc)
 
