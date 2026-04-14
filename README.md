@@ -15,10 +15,6 @@
 <img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/0e74d155-1568-48e2-aede-0714e6f15d97" />
 
 
-## [hyprbole](https://github.com/vlensys/hyprbole) 
-<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/ebbbaf9d-3895-4254-b30d-9452bc27e4a2" />
-
-
 
 [![](https://img.shields.io/badge/OS-Artix%20Linux-10b981?style=flat-square&logo=linux&logoColor=white)](https://artixlinux.org)
 [![](https://img.shields.io/badge/init-runit-ef4444?style=flat-square)](https://artixlinux.org)
