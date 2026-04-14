@@ -1,18 +1,28 @@
-## hi im valen
-- i use artix linux and neovim.
-- i mainly use c++, python and c.
-- star my repos please!
-<!--
-**vlensys/vlensys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# i'm valen
 
-Here are some ideas to get you started:
+## stuff that i use
+- any jetbrains ide
+- fish shell
+- foot terminal
+- artix linux w/ dinit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# projects
+
+## [lyricspot](https://github.com/vlensys/lyricspot) 
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/ad9f1739-e1a0-45f3-8f8e-b842e8f0ee57" />
+
+## [vlensys.cc](https://vlensys.cc/)
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/0e74d155-1568-48e2-aede-0714e6f15d97" />
+
+
+## [hyprbole](https://github.com/vlensys/hyprbole) 
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/ebbbaf9d-3895-4254-b30d-9452bc27e4a2" />
+
+
+
+[![](https://img.shields.io/badge/OS-Artix%20Linux-10b981?style=flat-square&logo=linux&logoColor=white)](https://artixlinux.org)
+[![](https://img.shields.io/badge/init-runit-ef4444?style=flat-square)](https://artixlinux.org)
+[![](https://img.shields.io/badge/website-vlensys.cc-6366f1?style=flat-square&logo=github&logoColor=white)](https://vlensys.cc)
+[![](https://img.shields.io/badge/email-me%40vlensys.cc-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:me@vlensys.cc)
+
+ 
