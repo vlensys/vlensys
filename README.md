@@ -1,9 +1,10 @@
 # i'm valen
 ## stuff that i use
-- any jetbrains ide
-- fish shell
-- foot terminal
+- any nd' all jetbrains IDEs
+- fish shell (yum!)
+- foot terminal (🤤😋)
 - artix linux w/ dinit
+- after effects
 
 # projects
 
@@ -13,8 +14,7 @@
 
 ## [vlensys.cc](https://vlensys.cc/)
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/2cece411-c996-46f0-b2eb-0bebb3f6f73e" />
-
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/11d947b9-ae01-4a20-b836-785d55776db1" />
 
 [![](https://img.shields.io/badge/OS-Artix%20Linux-10b981?style=flat-square&logo=linux&logoColor=white)](https://artixlinux.org)
 [![](https://img.shields.io/badge/init-dinit-ef4444?style=flat-square)](https://artixlinux.org)
