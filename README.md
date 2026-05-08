@@ -13,7 +13,8 @@
 
 ## [vlensys.cc](https://vlensys.cc/)
 
-<img width="600" alt="vlensys" src="https://github.com/user-attachments/assets/0e74d155-1568-48e2-aede-0714e6f15d97" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2cece411-c996-46f0-b2eb-0bebb3f6f73e" />
+
 
 [![](https://img.shields.io/badge/OS-Artix%20Linux-10b981?style=flat-square&logo=linux&logoColor=white)](https://artixlinux.org)
 [![](https://img.shields.io/badge/init-dinit-ef4444?style=flat-square)](https://artixlinux.org)
