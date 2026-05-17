@@ -10,7 +10,7 @@
 
 ## [lyricspot](https://github.com/vlensys/lyricspot)
 
-<img width="600" alt="lyricspot" src="https://github.com/user-attachments/assets/ad9f1739-e1a0-45f3-8f8e-b842e8f0ee57" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0ca8fe90-e68d-4382-9b50-213925f25044" />
 
 ## [vlensys.cc](https://vlensys.cc/)
 
