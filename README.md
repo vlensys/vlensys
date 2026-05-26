@@ -1,22 +1,52 @@
-# im valen
-## my stack
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /></a>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="py" /></a>
-<img src="https://img.shields.io/badge/claude_code-393939?style=for-the-badge&logo=claude&logoColor=whit" alt="clllaaaaude" /></a>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge" alt="intellij" /></a>
-<img src="https://img.shields.io/badge/neovim%20-000?logo=neovim&style=for-the-badge" alt="intellij" /></a>
+# hi, i'm valen
 
+### aka vlensys
+
+i make minecraft mods and random cli/tui tools
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vlensys&theme=transparent&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+
+
+<div align="center">
+  
+## stack
+
+<p align="center">
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="45" height="45" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="45" height="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="45" height="45" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="45" height="45" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="45" height="45" /></a>
+  <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="45" height="45" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="45" height="45" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" /></a>
+</p>
+
+<div align="center">
+
+  
 ## projects
-| name | status | 
-|---|---|
-| [lyricspot](https://github.com/vlensys/lyricspot) | done |
-| [hyprbole](https://github.com/vlensys/hyprbole) | done |
-| [yuri](https://github.com/vlensys/yuri) | 90% done |
-| [vlensys.cc](https://vlensys.cc) | done, for summer |
-| [stashpilot](https://github.com/vlensys/stashpilot) | done/idc |
-| yuri-client | in development |
+
+| project | status | tags |
+| --- | --- | --- |
+| [lyricspot](https://github.com/vlensys/lyricspot) | ![done](https://img.shields.io/badge/done-1f883d?style=flat-square) | `web` `music` |
+| [hyprbole](https://github.com/vlensys/hyprbole) | ![done](https://img.shields.io/badge/done-1f883d?style=flat-square) | `linux` `hyprland` |
+| [yuri](https://github.com/vlensys/yuri) | ![90%](https://img.shields.io/badge/90%25-d6a700?style=flat-square) | `client` `app` |
+| [vlensys.cc](https://vlensys.cc) | ![done](https://img.shields.io/badge/done-6b7280?style=flat-square) | `site` |
+| [stashpilot](https://github.com/vlensys/stashpilot) | ![archived](https://img.shields.io/badge/archived-555?style=flat-square) | `tool` |
+| yuri-client | ![not done](https://img.shields.io/badge/not_done-red?style=flat-square) | `client` |
 
 
 
-
+<div align="center">
