@@ -1,6 +1,6 @@
 <div align="center">
 
-# hi, i'm valen
+# hi, i'm valen!
 
 ### aka vlensys
 
@@ -38,15 +38,51 @@ i make minecraft mods and random cli/tui tools
   
 ## projects
 
-| project | status | tags |
-| --- | --- | --- |
-| [lyricspot](https://github.com/vlensys/lyricspot) | ![done](https://img.shields.io/badge/done-1f883d?style=flat-square) | `web` `music` |
-| [hyprbole](https://github.com/vlensys/hyprbole) | ![done](https://img.shields.io/badge/done-1f883d?style=flat-square) | `linux` `hyprland` |
-| [yuri](https://github.com/vlensys/yuri) | ![90%](https://img.shields.io/badge/90%25-d6a700?style=flat-square) | `client` `app` |
-| [vlensys.cc](https://vlensys.cc) | ![done](https://img.shields.io/badge/done-6b7280?style=flat-square) | `site` |
-| [stashpilot](https://github.com/vlensys/stashpilot) | ![archived](https://img.shields.io/badge/archived-555?style=flat-square) | `tool` |
-| yuri-client | ![not done](https://img.shields.io/badge/not_done-red?style=flat-square) | `client` |
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/vlensys/lyricspot">lyricspot</a>
+      </h3>
+      <p>lyrics right in your terminal!</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-done-1f883d?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/vlensys/hyprbole">hyprbole</a>
+      </h3>
+      <p>hyprland config manager</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-done-1f883d?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+        <td width="50%">
+      <h3>
+        <a href="https://vlensys.cc">vlensys.cc</a>
+      </h3>
+      <p>my portfolio site</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-done-1f883d?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>
+        <a href="https://github.com/vlensys/yuri">yuri</a>
+      </h3>
+      <p>yuri, right in your very own terminal!</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-90%25-d6a700?style=flat-square" />
+      </p>
+    </td>
+
+  </tr>
 
 
+</table>
 
 <div align="center">
