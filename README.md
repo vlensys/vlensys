@@ -21,15 +21,11 @@ i make minecraft mods and random cli/tui tools
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="45" height="45" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="45" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="45" height="45" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="45" height="45" /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="45" height="45" /></a>
   <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="45" height="45" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="45" height="45" /></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=aftereffects" alt="ae" width="45" height="45" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" /></a>
 </p>
 
