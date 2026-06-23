@@ -63,7 +63,7 @@ i make minecraft mods and random cli/tui tools
       </h3>
       <p>my portfolio site</p>
       <p>
-        <img src="https://img.shields.io/badge/status-done-1f883d?style=flat-square" />
+        <img src="https://img.shields.io/badge/status-idek-d6a700?style=flat-square" />
       </p>
     </td>
     <td width="50%">
