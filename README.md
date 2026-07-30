@@ -42,7 +42,7 @@ i make minecraft mods and random cli/tui tools
       </h3>
       <p>lyrics right in your terminal!</p>
       <p>
-        <img src="https://img.shields.io/badge/status-done-1f883d?style=flat-square" />
+        <img src="https://img.shields.io/badge/haveifinishedthis-yeah-1f883d?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -51,7 +51,7 @@ i make minecraft mods and random cli/tui tools
       </h3>
       <p>hyprland config manager</p>
       <p>
-        <img src="https://img.shields.io/badge/status-done-1f883d?style=flat-square" />
+        <img src="https://img.shields.io/badge/haveifinishedthis-yeah-1f883d?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -63,7 +63,7 @@ i make minecraft mods and random cli/tui tools
       </h3>
       <p>my portfolio site</p>
       <p>
-        <img src="https://img.shields.io/badge/status-idek-d6a700?style=flat-square" />
+        <img src="https://img.shields.io/badge/haveifinishedthis-yeah-1f883d?style=flat-square" />
       </p>
     </td>
     <td width="50%">
@@ -72,7 +72,7 @@ i make minecraft mods and random cli/tui tools
       </h3>
       <p>yuri, right in your very own terminal!</p>
       <p>
-        <img src="https://img.shields.io/badge/status-90%25-d6a700?style=flat-square" />
+        <img src="https://img.shields.io/badge/haveifinishedthis-idk-d6a700?style=flat-square" />
       </p>
     </td>
 
